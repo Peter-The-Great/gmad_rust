@@ -1,0 +1,8 @@
+[package]
+name = "bootil"
+version = "0.5.0"
+edition = "2023"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

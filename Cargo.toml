@@ -1,0 +1,3 @@
+[workspace]
+members = ["bootil", "gmad"]
+default-members = ["gmad"]
